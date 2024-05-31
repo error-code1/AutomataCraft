@@ -1,0 +1,2 @@
+# AutomataCraft
+Simulate Finite Automata
